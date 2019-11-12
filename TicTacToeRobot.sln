@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TicTacToeRobot", "TicTacToeRobot\TicTacToeRobot.pyproj", "{A22AA096-390A-4CE8-908B-20C3A1828B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22AA096-390A-4CE8-908B-20C3A1828B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22AA096-390A-4CE8-908B-20C3A1828B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18BA22C4-BCB4-4DD5-9B49-2E0CD0AC01A6}
+	EndGlobalSection
+EndGlobal
